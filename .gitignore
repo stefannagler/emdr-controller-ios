@@ -1,0 +1,13 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+.gitignore
+gitKey*
+*.pem
+*.key
+*.key
+*.pem
