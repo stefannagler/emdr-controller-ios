@@ -1,0 +1,12 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue_plus: ^1.5.2  # For BLE functionality
+  provider: ^6.0.5          # For state management
+  shared_preferences: ^2.2.0 # For settings storage
+  permission_handler: ^10.2.0 # For Android permissions
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0 
